@@ -1,5 +1,7 @@
 # Bubble-O-Mania
 
+https://github.com/user-attachments/assets/9f5708bf-f266-4234-b225-7e54d5a6996e
+
 This is a 3D multi-level, dual-user game developed as a participant in Global Game Jam 2025! This repository contains the source code and assets for our Unity-based game - Bubbl-O-Mania
 
 ## 🚀 Project Overview
